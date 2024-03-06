@@ -1143,11 +1143,11 @@ padding-top: 1rem;
 /* For small devices */
 @media screen and (max-width: 340px) {
   .container{
-    margin-inline :0.5rem;
+    margin-inline :0.25rem;
   }
 
   .home__image{
-    width: 140px;
+    width: 180px;
   }
 
   .about__image{
