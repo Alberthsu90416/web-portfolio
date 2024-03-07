@@ -1141,7 +1141,7 @@ padding-top: 1rem;
 
 /*=============== BREAKPOINTS ===============*/
 /* For small devices */
-@media screen and (max-width: 340px) {
+@media screen and (max-width: 320px) {
   .container{
     margin-inline: 0.25rem;
   }
