@@ -454,8 +454,8 @@ body.dark-theme{
 .home__social{
 height: max-content;
 position: absolute;
-right: -3rem;
-top: 0;
+left: -3rem;
+top: 8rem;
 bottom: 0;
 margin: auto;
 display: grid;
