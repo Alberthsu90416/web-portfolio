@@ -1149,7 +1149,9 @@ padding-top: 1rem;
   .home__image{
     width: 80px;
   }
-
+  .home__social{
+    left: initial;
+  }
   .about__image{
     width: 180px;
   }
