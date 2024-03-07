@@ -455,7 +455,7 @@ body.dark-theme{
 height: max-content;
 position: absolute;
 left: -3rem;
-top: 8rem;
+top: 0;
 bottom: 0;
 margin: auto;
 display: grid;
@@ -1147,7 +1147,7 @@ padding-top: 1rem;
   }
 
   .home__image{
-    width: 120px;
+    width: 80px;
   }
 
   .about__image{
