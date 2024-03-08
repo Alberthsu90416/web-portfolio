@@ -1150,7 +1150,14 @@ padding-top: 1rem;
     width: 80px;
   }
   .home__social{
-    left: initial;
+    height: max-content;
+    position: absolute;
+    left: -3rem;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    display: grid;
+    row-gap: 1rem;
   }
   .about__image{
     width: 180px;
